@@ -1,0 +1,12 @@
+name = "MoveOrDie"
+description = [[挂机超过一定时间后，查理会将你随机传送到一个怪物附近!]]
+author = "Lolligoo"
+version = "0.1"
+api_version = 10
+icon_atlas = "modicon.xml"
+icon = "modicon.tex"
+dst_compatible = true
+all_clients_require_mod = false
+client_only_mod = false
+server_only_mod = true
+server_filter_tags = {"moveordie"}
